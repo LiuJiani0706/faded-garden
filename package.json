@@ -1,0 +1,1 @@
+{"name":"faded-garden","version":"1.0.0","private":true,"scripts":{"test":"node test.cjs","start":"python3 -m http.server 5173 --directory dist"}}
